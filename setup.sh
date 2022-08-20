@@ -10,4 +10,4 @@ yes | sudo apt install neovim
 yes | sudo apt install vim-gtk3
 cd ~
 git clone "https://github.com/daniellloyd662/nvim.git" "./.config/nvim"
-echo 'source ~/.nvimrc' > ~/.config/nvim/init.vim
+#echo 'source ~/.nvimrc' > ~/.config/nvim/init.vim
